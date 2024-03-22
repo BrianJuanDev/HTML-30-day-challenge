@@ -1,0 +1,18 @@
+* { 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: sans-serif;
+    background: rgb(106, 133, 255);
+}
+
+p {
+    background-color: green;
+    color: wheat;
+    margin-bottom: 1px;
+    border: 1px solid black;
+    border-radius: 10%;
+}
